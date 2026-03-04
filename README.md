@@ -1,22 +1,16 @@
 <!-- README.md для https://github.com/Red4beard -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Red4beard&fontSize=30&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=60" alt="header"/>
 </p>
-
 <p align="center">
-  <a href="https://t.me/n8n_bro"><img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram" width="40" height="40" style="border-radius: 12px; margin: 0 8px;"/></a>
-  <a href="mailto:alchikurov@email.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="40" height="40" style="border-radius: 12px; margin: 0 8px;"/></a>
   <a href="https://www.linkedin.com/in/aleksandr-chikurov/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40" style="border-radius: 12px; margin: 0 8px;"/></a>
-  <!-- Добавьте другие соцсети по желанию -->
 </p>
 
 ---
 
 ### 👨‍💻 About me
-
 - 🛠️ **QA/AQA Test Engineer** & **n8n geek** (former MD & PhD but always an engineer at heart)
-- 🚀 I’m fond of automation, open source, and new technologies
+- 🚀 I'm fond of automation, open source, and new technologies
 - 🌱 Currently developing my skills in **Python**, **n8n**, and preparing for **ISTQB FL**
 - 💬 Open to QA/AQA Test Engineer opportunities
 
@@ -26,7 +20,6 @@ Click here 👉
 ---
 
 ### 🛠️ My Stack Technologies
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -41,16 +34,13 @@ Click here 👉
 ---
 
 ### 🐍 My GitHub Pulse
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Red4beard/Red4beard/main/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
-
 ---
 
 ### 📊 My GitHub Summary
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Red4beard&theme=react"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Red4beard&theme=react"/>
@@ -60,23 +50,19 @@ Click here 👉
 ---
 
 ### 🔥 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Red4beard&show_icons=true&theme=react"/>
+  <img src="https://github-readme-stats-lake-six-64.vercel.app/api?username=Red4beard&show_icons=true&theme=react"/>
 </p>
 
 ---
 
 ### 🏆 My GitHub Trophy
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Red4beard&theme=onedark&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Red4beard&theme=onedark&row=1&column=7&no-frame=true&cache_seconds=86400"/>
   </a>
 </p>
 
 ---
 
-### <h3 align="center">If you visit my page, please ⭐ any project you like. Your support means a lot!</h3>
-<!-- Можно добавить раздел с цитатами, шутками, блогом и т.д. -->
-
+<h3 align="center">If you visit my page, please ⭐ any project you like. Your support means a lot!</h3>
