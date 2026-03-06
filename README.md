@@ -19,7 +19,7 @@
 
 Click here 👉 
 [![Resume](https://img.shields.io/badge/📄-My%20Resume-blue?style=for-the-badge)](https://red4beard.github.io/AboutMe/)
-My XSS testing trainer
+My XSS testing trainer 👾 
 <img src="https://img.shields.io/badge/XSS-Trainer-00ff88?style=for-the-badge&logo=hackthebox&logoColor=white" alt="XSS Trainer"/>
 ---
 
