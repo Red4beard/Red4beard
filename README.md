@@ -17,10 +17,11 @@
 - 🌱 Currently developing my skills in **Python**, **n8n**, and preparing for **ISTQB FL**
 - 💬 Open to QA/AQA Test Engineer opportunities
 
-Click here 👉 my XSS trainer 👾 
+Click here 👉  
 <a href="https://github.com/Red4beard/xss-trainer">
   <img src="https://img.shields.io/badge/XSS-Trainer-blue?style=for-the-badge&logo=hackthebox&logoColor=white" alt="XSS Trainer"/>
 </a>
+ my XSS trainer 👾
 ---
 
 ### 🛠️ My Stack Technologies
