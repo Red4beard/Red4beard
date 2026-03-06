@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/aleksandr-chikurov/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40" style="border-radius: 12px; margin: 0 8px;"/></a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:20232a,100:0d3d6b&height=60&section=header&text=QA%20%26%20AQA%20%7C%20n8n%20automation%20%7C%20Always%20testing%2C%20always%20improving&fontSize=18&fontColor=61dafb&animation=twinkling"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=QA+%26+AQA+Test+Engineer;n8n+automation+geek;Always+testing%2C+always+improving...;Open+to+new+opportunities!" alt="Typing SVG"/>
 </p>
 
 ---
