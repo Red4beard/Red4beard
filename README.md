@@ -21,7 +21,9 @@ Click here 👉
 [![Resume](https://img.shields.io/badge/📄-My%20Resume-blue?style=for-the-badge)](https://red4beard.github.io/AboutMe/)
 </br>
 My trainer 👾 
-<img src="https://img.shields.io/badge/XSS-Trainer-blue?style=for-the-badge&logo=hackthebox&logoColor=white" alt="XSS Trainer"/>
+<a href="https://github.com/Red4beard/xss-trainer">
+  <img src="https://img.shields.io/badge/XSS-Trainer-blue?style=for-the-badge&logo=hackthebox&logoColor=white" alt="XSS Trainer"/>
+</a>
 ---
 
 ### 🛠️ My Stack Technologies
