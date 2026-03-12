@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About me
+### About me
 - 🛠️ **QA/AQA Test Engineer** & **n8n geek** (former MD & PhD but always an engineer at heart)
 - 🚀 I'm fond of automation, open source, and new technologies
 - 🌱 Currently developing my skills in **Python**, **n8n**, and preparing for **ISTQB FL**
@@ -22,7 +22,7 @@ Click here 👉 <a href="https://github.com/Red4beard/xss-trainer">
 </a> my XSS trainer 👾
 ---
 
-### 🛠️ My Stack Technologies
+### My Stack Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -36,14 +36,14 @@ Click here 👉 <a href="https://github.com/Red4beard/xss-trainer">
 
 ---
 
-### 🐍 My GitHub Pulse
+### My GitHub Pulse
 <p align="center">
   <img src="https://raw.githubusercontent.com/Red4beard/Red4beard/main/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ---
 
-### 📊 My GitHub Summary
+### My GitHub Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Red4beard&theme=react"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Red4beard&theme=react"/>
@@ -52,14 +52,14 @@ Click here 👉 <a href="https://github.com/Red4beard/xss-trainer">
 
 ---
 
-### 🔥 My GitHub Stats
+### My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-lake-six-64.vercel.app/api?username=Red4beard&show_icons=true&theme=react"/>
 </p>
 
 ---
 
-### 📈 My GitHub Activity
+### My GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Red4beard&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
 </p>
