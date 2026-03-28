@@ -17,7 +17,7 @@
 - 🤖 Building **AI-augmented QA workflows** — using **JAM -> Claude -> JIRA** in daily work
      - My public knowledge base via [TIL repository](https://github.com/Red4beard/til)
 - 🏥 **M.D., PhD · Neurology & Neurophysiology** 16 years in clinical practice 
-     — 5 years leading an EMG lab (stimulation & needle EMG) + IONM specialist in neurosurgery
+     - 5 years leading an EMG lab (stimulation & needle EMG) + IONM specialist in neurosurgery
 - 📚 Currently: **ISTQB Foundation** (in progress) · **IEC 62304** basics · **GAMP 5** basics
 - 💬 Based in **Serbia** · Available for **remote B2B contracts**  
      Open to: Medical Device QA · Clinical Validation · Healthcare IT
