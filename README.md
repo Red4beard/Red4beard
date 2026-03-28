@@ -13,11 +13,13 @@
 
 ### About me
 
-- 💻 **QA/AQA Test Engineer** with interest in **Security Testing**, **Medical IT**
-- 🤖 Building **AI-augmented QA workflows** — using **JAM -> Claude -> JIRA** in daily work. 
-- 🏥 Background in **medicine** **(MD & PhD)** but always an engineer at heart — targeting **Healthcare IT / Medical IT** as a long-term vector
-- 📚  Currently: deepening **OWASP Top 10**, **HIPPA**, preparing for **ISTQB Foundation**
-- 💬 Open to **QA in Medical / Healthcare IT** opportunities
+- 💻 **QA/AQA Test Engineer** with interest in **Medical device testing**, **Medical IT**
+- 🤖 Building **AI-augmented QA workflows** — using **JAM -> Claude -> JIRA** in daily work
+     Building public knowledge base via [TIL repository](https://github.com/Red4beard/til)
+- 🏥 **M.D., PhD · Neurology & Neurophysiology** 16 years in clinical practice — 5 years leading an EMG lab (stimulation & needle EMG) + IONM specialist in neurosurgery
+- 📚 Currently: **ISTQB Foundation** (in progress) · **IEC 62304** basics · **GAMP 5** basics
+- 💬 Based in **Serbia** · Available for **remote B2B contracts**  
+     Open to: Medical Device QA · Clinical Validation · Healthcare IT
 
 ---
 
