@@ -32,9 +32,9 @@ Click here 👉 <a href="https://github.com/Red4beard/xss-trainer">
   <img src="https://img.shields.io/badge/XSS-Trainer-0d1017?style=for-the-badge&logo=hackthebox&logoColor=00B4D8" alt="XSS Trainer"/>
 </a> Interactive XSS security checklist for QA engineers 👾
 
-Click here 👉 <a href="https://github.com/Red4beard/til">
-  <img src="https://img.shields.io/badge/TIL-Today%20I%20Learned-0d1017?style=for-the-badge&logo=gitbook&logoColor=00B4D8" alt="TIL"/>
-</a> My practical notes from QA & AI tooling work 📓
+Click here 👉 <a href="https://github.com/Red4beard/mcp-google-workspace">
+  <img src="https://img.shields.io/badge/MCP-Google%20Workspace-0d1017?style=for-the-badge&logo=googlesheets&logoColor=00B4D8" alt="MCP Google Workspace"/>
+</a> Google Sheets, Drive & Docs tools for Claude Code 🤖
 
 </p>
 
