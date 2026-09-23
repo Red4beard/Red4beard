@@ -81,12 +81,4 @@ Click here 👉 <a href="https://github.com/Red4beard/mcp-google-workspace">
 
 ---
 
-### My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Red4beard&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
-</p>
-
----
-
 <h3 align="center">If you visit my page, please ⭐ any project you like. Your support means a lot!</h3>
